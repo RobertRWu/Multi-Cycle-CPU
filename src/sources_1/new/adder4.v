@@ -1,0 +1,16 @@
+//////////////////////////////////////////////////////////////////////////////////
+// Engineer: Robert Wu
+// 
+// Create Date: 06/01/2019
+// Project Name: Multi-cycle CPU with 54 Instructions Based on MIPS Architecture
+//////////////////////////////////////////////////////////////////////////////////
+`timescale 1ns / 1ps
+
+module adder4(
+    input [31:0] a,
+    output [31:0] r
+    );
+
+    assign r = a + 4;
+
+endmodule
