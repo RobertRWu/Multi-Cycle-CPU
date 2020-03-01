@@ -2,7 +2,7 @@
 
 ## Description
 
-A simple single cycle CPU with 54 instructions based on MIPS architecture.
+A simple multi-cycle CPU with 54 instructions based on MIPS architecture.
 
 
 
